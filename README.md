@@ -1,5 +1,5 @@
 # About Me
-Hello! I'm Sarah! I'm a self-taught python programmer and love using this language to perform analytics. I have several years of professional analytics experience and enjoy developing new, creative ways to use data to drive decision making. Please feel to browse some of the sample projects I've developed for personal use.  
+Hello! I'm Sarah! I'm a self-taught python programmer and love using this language to perform analytics. I have several years of professional analytics experience and enjoy developing new, creative ways to use data to drive decision making. This skill set is beneficial for many industries and positions (even beyond analytic positions). Please feel to browse some of the sample projects I've developed for personal use.  
 <br>
 ## Sample Projects
 <details>
@@ -10,7 +10,6 @@ Here's an example of a chord diagram which is a type of advanced text analytics 
 
 ![chord_diagram](https://user-images.githubusercontent.com/101348209/226196173-1bdcadc4-cb02-4f62-adcf-1a1faf359f87.PNG)
 <br>
-Click [here](https://github.com/srkello/chord_diagrams) to view the repository with the interactive files.
 </details>
 
 <details>
