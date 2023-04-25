@@ -17,7 +17,7 @@ Here's an example of a chord diagram which is a type of advanced text analytics 
 <p>
 Here's an example of a map plot I made using hypothetical data to show user age by location. The circles on the chart show where participants are located by city. The size of the circle represents the amount of people in that city. The bigger the circle the more people. The color of the circle shows average participant age ranging from 20 - 70 (blue - yellow, respectively). Similarly to the above example, this chart is interactive in it's html format.
 </p>
-![image (2)](https://user-images.githubusercontent.com/101348209/234431608-6dfb98fd-826d-4e32-a2ab-f307ea368335.png)
+![image (2)](https://user-images.githubusercontent.com/101348209/234431608-6dfb98fd-826d-4e32-a2ab-f307ea368335.PNG)
 
 <br>
 </details>
